@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="description" content="Esse é meu primeiro site!"> 
+    <meta name="keywords" content="front-end, html, css, javascript">
+    <meta name="author" content="Rafael Lima">
+    <link rel="stylesheet" href="css/styler.css">
+</head>
+<body >
+    <h1>Conexões Criativas: Festival de Inovação e Arte</h1>
+    
+    <br>
+
+    <h2>Menu De Navegação</h2>
+    <ul>
+        <p><strong>Início</strong></p>
+        <li>Visão Geral do Evento</li>
+        <li>Destaques e Novidades</li>
+    </ul>
+    <ul>
+        <p><strong>Programação</strong></p>
+        <li>Palestras</li>
+        <li>Workshops</li>
+        <li>Apresentações Artísticas</li>
+    </ul>
+    <ul>
+        <p><strong>Participantes</strong></p>
+        <li>Palestrantes</li>
+        <li>Artistas</li>
+        <li>Expositores</li>
+    </ul>
+    <ul>
+        <p><strong>Localização</strong></p>
+        <li>Mapa do Evento</li>
+        <li>Acomodações</li>
+        <li>Transporte</li>
+    </ul>
+    <ul>
+        <p><strong>Contato</strong></p>
+        <li>Informações Gerais</li>
+        <li>Suporte ao Participante</li>
+        <li>Redes Sociais</li>
+    </ul>
+    <ul>
+        <p><strong>Sobre Nós</strong></p>
+        <li>Nossa História</li>
+        <li>Equipe Organizadora</li>
+        <li>Patrocinadores</li>
+    </ul>
+
+    <br>
+
+    <h1>Introdução</h1>
+    <p>O "Conexões Criativas: Festival de Inovação e Arte" é um evento emocionante que celebra a interseção entre a criatividade, a tecnologia e a expressão artística. Durante três dias repletos de inspiração, este festival reúne mentes brilhantes, artistas talentosos e entusiastas da inovação para explorar novas fronteiras e criar conexões significativas. Com uma programação diversificada de palestras, workshops e apresentações, o evento promete ser uma experiência transformadora para todos os participantes, estimulando a imaginação, fomentando a colaboração e impulsionando o crescimento pessoal e profissional. Junte-se a nós nesta jornada de descoberta, onde ideias inovadoras e expressão artística se encontram para criar um futuro mais criativo e conectado.</p>
+    
+</body>
+</html>
