@@ -58,4 +58,51 @@
     <p>O "Conexões Criativas: Festival de Inovação e Arte" é um evento emocionante que celebra a interseção entre a criatividade, a tecnologia e a expressão artística. Durante três dias repletos de inspiração, este festival reúne mentes brilhantes, artistas talentosos e entusiastas da inovação para explorar novas fronteiras e criar conexões significativas. Com uma programação diversificada de palestras, workshops e apresentações, o evento promete ser uma experiência transformadora para todos os participantes, estimulando a imaginação, fomentando a colaboração e impulsionando o crescimento pessoal e profissional. Junte-se a nós nesta jornada de descoberta, onde ideias inovadoras e expressão artística se encontram para criar um futuro mais criativo e conectado.</p>
     
 </body>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="description" content="Esse é meu primeiro site!"> 
+    <meta name="keywords" content="front-end, html, css, javascript">
+    <meta name="author" content="Rafael Lima">
+    <link rel="stylesheet" href="css/styler.css">
+</head>
+<body>
+    <h1>Conexões Criativas: Festival de Inovação e Arte</h1>
+
+    <br>
+
+    <p>Conexões Criativas é um festival que promove a intersecção entre inovação,<br> 
+    arte e diferentes segmentos, como moda, beleza e arquitetura. O evento se destaca por reunir profissionais e empreendedores de diversas áreas, 
+    oferecendo um espaço para troca de ideias e experiências criativas.</p>
+    
+    <br>
+
+    <h2>Edições e Temas</h2>
+    
+    <br>
+
+    <p>A próxima edição do Conexões Criativas ocorrerá entre os dias 25 e 27 de setembro de 2024,<br> 
+    em Feira de Santana, Bahia. A entrada será mediante a doação de 1 kg de alimento não perecível. <br>
+    O festival busca abordar temas relevantes e atuais, como cenários e tendências do mercado da beleza, e é projetado para fomentar a criatividade e a inovação entre os participantes.</p>
+
+    <br>
+
+    <h2>Importância</h2>
+
+    <br>
+
+    <p>Eventos como o Conexões Criativas são fundamentais para o desenvolvimento de novas perspectivas e soluções <br> 
+    inovadoras,contribuindo para o crescimento pessoal e profissional dos envolvidos. A participação em festivais desse tipo <br> 
+    é considerada uma necessidade para aqueles que desejam se atualizar e se conectar com as tendências do mercado.</p>
+    
+</body>
 </html>
