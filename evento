@@ -56,8 +56,125 @@
 
     <h1>Introdução</h1>
     <p>O "Conexões Criativas: Festival de Inovação e Arte" é um evento emocionante que celebra a interseção entre a criatividade, a tecnologia e a expressão artística. Durante três dias repletos de inspiração, este festival reúne mentes brilhantes, artistas talentosos e entusiastas da inovação para explorar novas fronteiras e criar conexões significativas. Com uma programação diversificada de palestras, workshops e apresentações, o evento promete ser uma experiência transformadora para todos os participantes, estimulando a imaginação, fomentando a colaboração e impulsionando o crescimento pessoal e profissional. Junte-se a nós nesta jornada de descoberta, onde ideias inovadoras e expressão artística se encontram para criar um futuro mais criativo e conectado.</p>
+
+     <br>
+
+     <a href="link do site.html">Next</a>
+    
+    <br><br>
+
+    <img src="img/Design sem nome (1).jpg" alt="oi">
+
+    <br>
+
+    <h2>O evento Conexões Criativas ocorrerá de 25 a 27 de setembro de 2023,<br> 
+        na Casa Felicità, em Feira de Santana, e a entrada requer a doação de 1 kg de alimento não perecível</h2>
+        
+        <br>
+
+        <h2>Cronograma</h2>
+    <table width="50%" border="3" style="text-align: center;">
+        <tr>
+            <th>Data</th>
+            <th>Horário</th>
+            <th>Atividade</th>
+            <th>Palestrante(s)</th>
+        </tr>
+        <tr>
+            <td>25/09/2024</td>
+            <td>18h30</td>
+            <td>Mergulho na arte da Fotografia Mobile para Negócios de Beleza</td>
+            <td>Paulo Lima e Betânia Bacelar</td>
+        </tr>
+        <tr>
+            <td>25/09/2024</td>
+            <td>20h00</td>
+            <td>Ir além com Marie Suzuki Fujisawa, explorando cenários e tendências do mercado da Beleza</td>
+            <td>Marie Suzuki Fujisawa</td>
+        </tr>
+        <tr>
+            <td>26/09/2024</td>
+            <td>18h30</td>
+            <td>Jornada de Comunicação e Imagem nos Negócios de Moda</td>
+            <td>André Carvalhal</td>
+        </tr>
+        <tr>
+            <td>26/09/2024</td>
+            <td>20h00</td>
+            <td>O Futuro dos Negócios de Moda – Inovação e Sustentabilidade</td>
+            <td>André Carvalhal</td>
+        </tr>
+        <tr>
+            <td>27/09/2024</td>
+            <td>18h30</td>
+            <td>Novos Formatos da Arquitetura Contemporânea</td>
+            <td>Wesley Lemos</td>
+        </tr>
+        <tr>
+            <td>27/09/2024</td>
+            <td>20h00</td>
+            <td>Encerramento com expertise de 15 anos em projetos inovadores e criativos</td>
+            <td>Renato Fregnani</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <h1>Palestrantes</h1>
+    <ol>
+        <li>Paulo Lima</li>
+        <li>Betânia Bacelar</li>
+        <li>Marie Suzuki Fujisawa</li>
+        <li>Maria Olinto</li>
+        <li>André Carvalhal</li>
+        <li>Wesley Lemos</li>
+        <li>Renato Fregnani</li>
+    </ol>
+
+    <br>
+
+    <h2>Tópicos Discutidos</h2>
+    <ul>
+        <li>Fotografia Mobile para Negócios de Beleza</li>
+        <li>Tendências do Mercado da Beleza</li>
+        <li>Comunicação e Imagem nos Negócios de Moda</li>
+        <li>Inovação e Sustentabilidade nos Negócios de Moda</li>
+        <li>Arquitetura Contemporânea</li>
+        <li>Projetos Inovadores e Criativos</li>
+    </ul>
+
+    <br>
+
+    <iframe src="vídeo/videoplayback.mp4" frameborder="3"></iframe>
+
+    <br>
+
+    <h1>Formulário De Inscrição</h1>
+    <form action="">
+        <label for="campo_nome">Nome:</label>
+    <input id="campo_nome" type="text" placeholder="Digite seu nome aqui" required>
+
+    <br><br>
+
+    <label for="campo_email">Email:</label>
+    <input id="campo_email" type="email" placeholder="Digite o seu email" required>
+
+    <br><br>
+
+    <label for="campo_senha">Senha:</label>
+    <input id="campo_senha" type="password" placeholder="Digite uma senha" required>
+
+    <br><br>
+
+    <input type="submit" value="Enviar Formulário">
+    </form>
+
+    <br><br>
+
     
 </body>
+</html>
+
 
 
 
